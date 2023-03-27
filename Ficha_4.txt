@@ -6,7 +6,7 @@ Em Grupo:
 	3. Protótipos (Mockups)
 		- Figma
 		- Draw.io
-		- Balsomiq
+		- Balsamiq
 	4. Implementação
 	5. Testes (unitários)
 
