@@ -1,0 +1,39 @@
+Aplicação de gestão de finanças
+
+Em Grupo:
+	1. Listagem Requisitos
+	2. Especificação Requisitos
+	3. Protótipos (Mockups)
+		- Figma
+		- Draw.io
+		- Balsomiq
+	4. Implementação
+	5. Testes (unitários)
+
+
+
+
+
+Levantamento de Requisitos
+1. Lista de Requisitos
+	criar utilizador
+	adicionar/editar recebimentos/gastos
+	categorias?
+	ver movimentos/transações e balanço atual
+	adicionar objetivos?
+
+Protótipo Figma
+https://www.figma.com/file/CfC4IW0F8Vs48w21uktOZl/Untitled?node-id=0-1&t=chS1iqbNOskCMpEw-0
+
+
+
+
+
+
+
+
+
+
+
+
+	
