@@ -18,9 +18,12 @@ Levantamento de Requisitos
 1. Lista de Requisitos
 	criar utilizador
 	adicionar/editar recebimentos/gastos
-	categorias?
 	ver movimentos/transações e balanço atual
+	
 	adicionar objetivos?
+	categorias?
+	
+Especificação de Requisitos
 
 Protótipo Figma
 https://www.figma.com/file/CfC4IW0F8Vs48w21uktOZl/Untitled?node-id=0-1&t=chS1iqbNOskCMpEw-0
